@@ -7,12 +7,12 @@ var website_name = "YASIN";ROX_TOP_UP
 // TELEGRAM CHANNEL LINK
 // =======================================================
 var telegram_channel_link = "telegram channel link";
-
+Let's chat on WhatsApp! It's a fast, simple, and secure app we can use to message and call each other for free. Get it at https://whatsapp.com/dl/
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
 var telegram_group_link = "telegram group link";
-
+Let's chat on WhatsApp! It's a fast, simple, and secure app we can use to message and call each other for free. Get it at https://whatsapp.com/dl/
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
